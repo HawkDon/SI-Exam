@@ -4,7 +4,7 @@
 
 [Have Kubernetes installed](https://kubernetes.io)
 
-[(Prefered) Have Skaffold installed](https://github.com/GoogleContainerTools/skaffold)
+[(Preferred) Have Skaffold installed](https://github.com/GoogleContainerTools/skaffold)
 
 
 ## Docker-Compose (UNSTABLE_LEGACY)
