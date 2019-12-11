@@ -1,8 +1,10 @@
 ## Requisite
 
-(Have Docker installed())[https://www.docker.com/]
-(Have Kubernetes installed)[https://kubernetes.io/]
-((Prefered) Have Skaffold installed)[https://github.com/GoogleContainerTools/skaffold]
+[Have Docker installed](https://www.docker.com)
+
+[Have Kubernetes installed](https://kubernetes.io)
+
+[(Prefered) Have Skaffold installed](https://github.com/GoogleContainerTools/skaffold)
 
 
 ## Docker-Compose (UNSTABLE_LEGACY)
